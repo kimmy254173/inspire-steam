@@ -5,5 +5,5 @@ cluster-points = 75
 
 print(f"my university is {university}")
 print(f"my grade is{grade}")
-print(f"my favourite course is{favourite course}")
-print(f"my cluster points are {points}")
+print(f"my favourite course is{favourite_course}")
+print(f"my cluster points are {cluster_points}")
