@@ -1,9 +1,10 @@
-university = JKUAT
-Grade = "A"
-favourite-course = "machine learning engineering"
-cluster-points = 75
+university = "JKUAT"
+grade = "A"
+favourite_course = "machine learning engineering"
 
-print(f"my university is {university}")
-print(f"my grade is{grade}")
-print(f"my favourite course is{favourite_course}")
-print(f"my cluster points are {cluster_points}")
+points = 75
+
+print(f"my favourite university is {university}")
+print(f"my grade is {grade}")
+print(f"my favourite course is {favourite_course}")
+print(f"my cluster points are {points} ")
