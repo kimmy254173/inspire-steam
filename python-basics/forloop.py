@@ -1,0 +1,20 @@
+# Name : Kimberley Gitau
+# Date : 13/02/2026
+# Program to show for loops in python
+
+# Assignment 3
+
+import math
+
+for x in range(0,360,30):
+    print(math.cos(x))
+
+for x in range(0,360,30):
+    print(math.sin(x))
+
+for x in range(0,360,30):
+     print(math.tan(x))
+
+  
+for i in range(10,0,-1):
+    print(i)
