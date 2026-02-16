@@ -12,3 +12,4 @@ nth_term = a + (n - 1) * d
 sn = (n/2) *( (2*a) +(n-1)  *d )
 
 print(f"The nth Term is : {nth_term}")
+
