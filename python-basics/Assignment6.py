@@ -2,6 +2,7 @@
 # Date : 16/02/2026
 # Program to tabulate trigonometric ratios
 
+
 import math
 print("_________________________________________________________________________")
 print(f"|  x   |   sin x        | cos x           |    tan x           |")
