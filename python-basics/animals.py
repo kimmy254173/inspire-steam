@@ -20,7 +20,7 @@ class Animal():
 
 class Dog(Animal):
     def __init__(self,species,weight,breed):
-        supper().__init__(species,weight,food)
+        super().__init__(species,weight,food)
         self.colour = colour
         self.weight = weight
         self.breed = breed
