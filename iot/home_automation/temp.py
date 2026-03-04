@@ -17,3 +17,7 @@ while True:
     print('Humidity: %3.1f %%' %hum)
   except OSError as e:
     print('Failed to read sensor.')
+
+# This is a change
+
+# another change
